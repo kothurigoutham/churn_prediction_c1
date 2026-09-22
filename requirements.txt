@@ -1,0 +1,12 @@
+pandas==3.0.2
+numpy
+scikit-learn==1.8.0
+xgboost
+shap
+joblib
+matplotlib
+seaborn
+plotly
+streamlit
+jupyter
+nbconvert

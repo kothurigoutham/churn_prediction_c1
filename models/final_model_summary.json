@@ -1,0 +1,31 @@
+{
+  "final_model": "Decision Tree",
+  "final_metrics": {
+    "Accuracy": 0.7402413058907026,
+    "Precision": 0.506872852233677,
+    "Recall": 0.7887700534759359,
+    "F1": 0.6171548117154811,
+    "ROC-AUC": 0.828417163967036
+  },
+  "feature_columns": [
+    "tenure",
+    "MonthlyCharges",
+    "TotalCharges",
+    "gender",
+    "SeniorCitizen",
+    "Partner",
+    "Dependents",
+    "PhoneService",
+    "MultipleLines",
+    "InternetService",
+    "OnlineSecurity",
+    "OnlineBackup",
+    "DeviceProtection",
+    "TechSupport",
+    "StreamingTV",
+    "StreamingMovies",
+    "Contract",
+    "PaperlessBilling",
+    "PaymentMethod"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "selected_model": "Decision Tree",
+  "best_params": {
+    "model__max_depth": 6,
+    "model__min_samples_leaf": 10
+  },
+  "before_tuning": {
+    "Accuracy": 0.7402413058907026,
+    "Precision": 0.506872852233677,
+    "Recall": 0.7887700534759359,
+    "F1": 0.6171548117154811,
+    "ROC-AUC": 0.828417163967036
+  },
+  "after_tuning": {
+    "Accuracy": 0.7395315826827538,
+    "Precision": 0.5060240963855421,
+    "Recall": 0.786096256684492,
+    "F1": 0.6157068062827226,
+    "ROC-AUC": 0.8295176832261231
+  }
+}
