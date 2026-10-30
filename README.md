@@ -1,6 +1,6 @@
 # Customer Churn Prediction Using Machine Learning
 
-**Team:** Kothuri Goutham (1601-24-737-314), Muggu Yashas (1601-24-737-319)
+**Team:** Kothuri Goutham (1601-24-737-314), P Aravind Kumar (1601-24-737-319)
 
 An end-to-end machine learning project that predicts telecom customer churn and serves the
 prediction through a Streamlit web application.

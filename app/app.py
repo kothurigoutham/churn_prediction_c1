@@ -285,7 +285,7 @@ else:
         """
 **Customer Churn Prediction Using Machine Learning**
 
-**Team:** Kothuri Goutham (1601-24-737-314), Muggu Yashas (1601-24-737-319)
+**Team:** Kothuri Goutham (1601-24-737-314), P Aravind Kumar (1601-24-737-319)
 
 This application predicts whether a telecom customer is likely to churn, using a model
 trained on the real Telco Customer Churn dataset (7,043 customers, 21 original columns).
